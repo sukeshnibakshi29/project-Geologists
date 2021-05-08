@@ -34,19 +34,19 @@ function setup(){
 function draw(){
     background("orange");
     Engine.update(engine);
-    plane.display();
-    stone.display();
-     iron.display();
-    rubber.display();
- hammer.display();
-sand1.display();
-    sand2.display();
-    sand3.display();
-    sand4.display();
-    sand5.display();
-    sand6.display();
-    sand7.display();
-    sand8.display();
-    sand9.display();
-    sand10.display();
+    Plane.display();
+    Stone.display();
+     Iron.display();
+    Rubber.display();
+ Hammer.display();
+Sand1.display();
+    Sand2.display();
+    Sand3.display();
+    Sand4.display();
+    Sand5.display();
+    Sand6.display();
+    Sand7.display();
+    Sand8.display();
+    Sand9.display();
+    Sand10.display();
 }
