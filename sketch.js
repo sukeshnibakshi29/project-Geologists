@@ -34,12 +34,14 @@ function setup(){
 function draw(){
     background("orange");
     Engine.update(engine);
+    
+    
     Plane.display();
     Stone.display();
-     Iron.display();
+    Iron.display();
     Rubber.display();
- Hammer.display();
-Sand1.display();
+    Hammer.display();
+    Sand1.display();
     Sand2.display();
     Sand3.display();
     Sand4.display();
